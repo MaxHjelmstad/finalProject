@@ -79,8 +79,8 @@ void draw() {
   if (numPressed>=2) {
     createGraph();
   }
-  println(numPressed);
-  println(year1Concussions);
+  //println(numPressed);
+  //println(year1Concussions);
 }
 void mousePressed() {
   if (mouseButton == LEFT) { 
