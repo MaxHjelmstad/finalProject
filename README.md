@@ -11,7 +11,7 @@ One of the most difficult parts happened to be at the beginning, because finding
 
 ### Most interesting piece of your code and explanation for what it does.
 
-if (mouseX>=600&&mouseY>=300&&mouseX<900&&mouseY<600&&mousePressed) {
+*if (mouseX>=600&&mouseY>=300&&mouseX<900&&mouseY<600&&mousePressed) {
     if (year1text.equals("")) {
       year1text+=menu.get(5).toString();
       year1="2017 (Concussions, ACL Tears, MCL Tears)";
